@@ -22,7 +22,7 @@ git clone https://github.com/berkantusta12/server-connection-log.git
 To use it after cloning the project:
 ```
 
-code .
+code . 
 open terminal
 Run the following commands in the project folder to install the project dependencies.
 npm install
